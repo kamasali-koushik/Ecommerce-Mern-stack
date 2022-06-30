@@ -1,8 +1,7 @@
 
 # Ecommerce Website
 This is a Ecommerce website built using  MERN stack(Mongo, Express, React and Node).
-# Status 
-The project are under re-development for become materail on my course staytune for update
+
 # Technologies
 
 1. [React.js](https://reactjs.org)
